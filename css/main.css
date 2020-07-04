@@ -2361,3 +2361,19 @@ shortcodes page css
 {
   padding-top: 20px;
 }
+
+#category
+{
+  text-align: left;
+}
+
+.fadeInDown
+{
+  padding-bottom: 0px;
+}
+
+.team-img
+{
+  width: 428px;
+  height: 308px;
+}
