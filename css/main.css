@@ -2353,7 +2353,7 @@ shortcodes page css
 
 #footer
 {
-  background-color: black;
+  background-image: url("images/back.jpg");
   padding: 5px;
 }
 
