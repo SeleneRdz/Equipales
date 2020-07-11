@@ -12,7 +12,6 @@ body {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -2376,4 +2375,9 @@ shortcodes page css
 {
   width: 428px;
   height: 308px;
+}
+
+#title h2
+{
+  font-family: 'cream_cakeregular';
 }
