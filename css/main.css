@@ -2379,5 +2379,123 @@ shortcodes page css
 
 #title h2
 {
-  font-family: 'cream_cakeregular';
+  font-family: 'Courgette';
+}
+
+hr
+{
+  background-color: #EC5538;
+  color: #EC5538;
+  height: 1px;
+}
+
+/*************************
+*******.single-asiento******
+**************************/
+
+.single-asiento img{
+    width: 250px;
+    height: 300px;
+    padding-left: -165px;
+    margin-left: -165px;
+}
+
+.single-asiento{
+    margin-bottom: 30px;
+}
+.single-asiento .inner{
+    background: #fff;
+    text-align: center;
+    color: #989898;
+    font-size: 16px;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.single-asiento .inner:hover{
+    -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+
+.single-asiento .team-content{
+    padding: 30px 0;
+}
+.single-asiento h4{
+    font-size: 20px;
+    font-weight: 700;
+    color: #333;
+    margin-top: 0;
+}
+.single-asiento .team-social{
+    margin-top: 15px;
+}
+.single-asiento .team-social a{
+    color: #989898;
+    padding: 5px;
+    margin: 0 10px;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.single-asiento .team-social a:hover{
+    color: #EC5538;
+}
+
+
+
+
+.single-service img{
+    width: 100px;
+    height: 250px;
+    padding-left: -65px;
+    margin-left: -65px;
+    padding-top: 10px;
+}
+
+.single-service{
+    margin-bottom: 30px;
+}
+.single-service .inner{
+    background: #fff;
+    text-align: center;
+    color: #989898;
+    font-size: 16px;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.single-service .inner:hover{
+    -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+
+.single-service .team-content{
+    padding: 10px 0;
+    padding-top: 0px;
+}
+.single-service h4{
+    font-size: 20px;
+    font-weight: 700;
+    color: #333;
+    margin-top: 0;
+}
+.single-service .team-social{
+    margin-top: 15px;
+}
+.single-service .team-social a{
+    color: #989898;
+    padding: 5px;
+    margin: 0 10px;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.single-service .team-social a:hover{
+    color: #EC5538;
 }
