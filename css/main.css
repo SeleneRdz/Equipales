@@ -132,6 +132,7 @@ body>section {
     font-size: 16px;
     line-height: 24px;
     font-weight: 400;
+    text-align: justify;
 }
 
 .transparent-bg {
@@ -1082,7 +1083,6 @@ a.accordion-toggle i {
 
 .testimonial-slider .single-slide .slide-img{
     border-radius: 50%;
-    overflow: hidden;
     display: inline-block;
     margin-bottom: 15px;
 }
@@ -2379,7 +2379,15 @@ shortcodes page css
 
 #title h2
 {
-  font-family: 'Courgette';
+  font-family: 'Lucida Calligraphy';
+}
+
+/* Para imágenes en carrusel de fabricación */
+#slide-fab
+{
+  width: 150px;
+  text-align: center;
+  align-items: center;
 }
 
 hr
