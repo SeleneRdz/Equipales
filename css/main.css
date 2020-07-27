@@ -170,11 +170,11 @@ body>section {
     padding: 60px 0;
 }
 
-.page-title h1{
+.page-title h1 {
     color: #fff;
-    margin: 0;
     text-align: center;
     font-size: 64px;
+    margin-top: 50px;
 }
 
 
@@ -192,7 +192,7 @@ body>section {
 
 .top-bar {
     padding: 10px 0;
-    background: #191919;
+    background: #251b1b;
     border-bottom: 1px solid #222;
     line-height: 28px;
 }
@@ -2408,7 +2408,7 @@ hr
     margin-left: -165px;
 }
 
-.single-asiento{
+.single-asiento {
     margin-bottom: 30px;
 }
 .single-asiento .inner{
@@ -2420,6 +2420,7 @@ hr
     transition: .4s;
     border-radius: 5px;
     overflow: hidden;
+    align-items: center;
 }
 
 .single-asiento .inner:hover{
